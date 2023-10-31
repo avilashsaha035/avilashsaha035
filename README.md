@@ -16,3 +16,9 @@
 👋Hi, this is Avilash Saha. I am a full-stack web developer. Currently I am working on laravel and react js in a software company as a Junior Software Engineer. Beside that, I am also finding better opportunities to expand my skills and experiences. I want up to date with new technologies and constantly seeking new challenges to improve my knowledge and skills.
 
 I love photography and traveling.
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Where to find me.</h1>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avilashsaha035)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/avilashsaha.akash?mibextid=ZbWKwL))
