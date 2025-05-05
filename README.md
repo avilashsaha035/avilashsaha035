@@ -19,9 +19,9 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
 
-👋Hi, this is Avilash Saha. I am a full-stack software developer. Currently I am working on laravel and Vue.js in a software company as a Junior Software Engineer. Beside that, I am also finding better opportunities to expand my skills and experiences. I want up to date with new technologies and constantly seeking new challenges to improve my knowledge and skills.
+👋Hi, I'm Avilash Saha – a passionate and results-driven Full-Stack Software Engineer with expertise in Laravel & Vue.js. Currently, I'm excelling as an Associate Software Engineer at a leading software company, where I design, develop, and optimize high-performance web applications. Beside that, I am also finding better opportunities to expand my skills and experiences. I want up to date with new technologies and constantly seeking new challenges to improve my knowledge and skills.
 
-I love photography and traveling.
+Beyond coding I have a passion for photography and traveling.
 
 ### Where to find me
 
