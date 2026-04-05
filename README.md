@@ -29,11 +29,17 @@
 ![Google AI](https://img.shields.io/badge/Google_AI-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
 
-👋Hi, I'm Avilash Saha – a passionate and results-driven Full-Stack Software Engineer with expertise in Laravel & Vue.js. Currently, I'm excelling as an Associate Software Engineer at a leading software company, where I design, develop, and optimize high-performance web applications. Alongside my core stack, I am actively expanding my skill set by learning `Node.js` and `Express.js` to strengthen my capabilities and stay aligned with modern technologies. Beside that, I am also finding better opportunities to expand my skills and experiences. I want up to date with new technologies and constantly seeking new challenges to improve my knowledge and skills.
+## 🚀 About Me
 
-Beyond coding I have a passion for photography and traveling.
+- 💼 Associate Software Engineer with 2+ years of professional experience  
+- 🧠 Strong expertise in **Laravel, Vue.js, and MySQL**  
+- 🌱 Currently learning **Node.js and Express.js** to strengthen backend skills  
+- 🐳 Exploring **Docker** for containerization and scalable deployments  
+- 🤖 Using AI tools like **ChatGPT, Claude, Gemini,** e.t.c to boost productivity  
+- 🎯 Goal: Become an advanced software engineer with strong system design skills
 
-
+#### 📍 Beyond coding I have a passion for photography and traveling🚶‍♂️‍➡️📸
+---
 
 ### Where to find me
 
