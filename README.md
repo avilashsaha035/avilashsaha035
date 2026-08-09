@@ -31,12 +31,13 @@
 
 ## 🚀 About Me
 
-- 💼 Associate Software Engineer with 2+ years of professional experience  
-- 🧠 Strong expertise in **Laravel, Vue.js, and MySQL**  
-- 🌱 Currently learning **Node.js and Express.js** to strengthen backend skills  
-- 🐳 Exploring **Docker** for containerization and scalable deployments  
-- 🤖 Using AI tools like **ChatGPT, Claude, Gemini,** e.t.c to boost productivity  
-- 🎯 Goal: Become an advanced software engineer with strong system design skills
+- 💼 **Assistant Software Engineer** with **3+ years of professional experience** in software development
+- 🧠 Strong expertise in **PHP, Laravel, Vue.js, JavaScript, and MySQL**
+- ⚙️ Experienced in building **scalable web applications, RESTful APIs, database-driven systems, and business logic**
+- 🌱 Continuously expanding backend expertise with **Node.js and Express.js**
+- 🐳 Exploring **Docker, containerization, and modern deployment practices**
+- 🤖 Leveraging AI-powered development tools such as **ChatGPT, Claude, Gemini, and Antigravity Coding Agent** to improve development productivity and code quality
+- 🎯 Goal: Become an **advanced software engineer** with strong expertise in **system design, scalable architecture, backend engineering, and modern software development practices**
 
 #### 📍 Beyond coding I have a passion for photography and traveling🚶‍♂️‍➡️📸
 ---
