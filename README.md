@@ -3,7 +3,7 @@
   Hey! I'm Avilash Saha
 </h1>
 
-<h3 align="center">Full-Stack Software Engineer | Laravel | Vue.js | Node.js</h3>
+<h3 align="center">Full-Stack Software Engineer | Laravel | React.js | Vue.js | Node.js</h3>
 
 ---
 
