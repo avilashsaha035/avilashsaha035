@@ -1,60 +1,85 @@
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hey! I'm Avilash Saha
-</h1>
-
-<h3 align="center">Full-Stack Software Engineer | Laravel | React.js | Vue.js | Node.js | Nest.js | PostgreSQL</h3>
-
----
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS-Server-333333?style=flat-square&logo=linux&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-AI-FF6F61?style=flat-square)
-![Google AI](https://img.shields.io/badge/Google_AI-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-
-
-## 🚀 About Me
-
-- 💼 **Assistant Software Engineer** with **3+ years of professional experience** in software development
-- 🧠 Strong expertise in **PHP, Laravel, Vue.js, JavaScript, and MySQL**
-- ⚙️ Experienced in building **scalable web applications, RESTful APIs, database-driven systems, and business logic**
-- 🌱 Continuously expanding backend expertise with **Node.js and Express.js**
-- 🐳 Exploring **Docker, containerization, and modern deployment practices**
-- 🤖 Leveraging AI-powered development tools such as **ChatGPT, Claude, Gemini, and Antigravity Coding Agent** to improve development productivity and code quality
-- 🎯 Goal: Become an **advanced software engineer** with strong expertise in **system design, scalable architecture, backend engineering, and modern software development practices**
-
-#### 📍 Beyond coding I have a passion for photography and traveling🚶‍♂️‍➡️📸
----
-
-### Where to find me
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avilashsaha035)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/avilashsaha.akash?mibextid=ZbWKwL)
-
----
-
-## 📊 Contribution Graph
+<h1 align="center">Avilash Saha</h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avilashsaha035&theme=react-dark" />
+  <b>Full-Stack Software Engineer</b> · Laravel · Node.js · React.js<br>
+  Dhaka, Bangladesh
 </p>
+
+<p align="center">
+  <a href="mailto:sahaavilash5055@gmail.com"><img src="https://img.shields.io/badge/Email-contact-0f172a?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/avilashsaha035"><img src="https://img.shields.io/badge/LinkedIn-Avilash%20Saha-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/avilashsaha035"><img src="https://img.shields.io/badge/GitHub-avilashsaha035-181717?style=flat-square&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/avilashsaha035?style=flat-square&logo=github&logoColor=white&label=followers&color=334155">
+  <img src="https://img.shields.io/github/stars/avilashsaha035?style=flat-square&logo=github&logoColor=white&label=stars&color=334155">
+</p>
+
+---
+
+I build and improve production web applications with **Laravel, PHP, JavaScript and MySQL**. My work spans REST APIs, database performance, reusable application modules, access control and responsive user experiences.
+
+At Qbit Tech, I work on business management software, I help to improve CRM, accounting and operations workflows in SolvX BMS. Previously, I helped build ICT Olympiad Bangladesh, a national platform serving thousands of concurrent users.
+
+## Selected work
+
+| Project | What it does |
+| --- | --- |
+| [Project Brain MCP](https://github.com/avilashsaha035/project-brain-mcp) | An MCP server that scans GitHub repositories and generates codebase explanations covering the tech stack, architecture, authentication flows and key modules. Built with Node.js, the MCP SDK and GitHub API. |
+| [ATS CV Optimizer](https://github.com/avilashsaha035/ats-cv-optimizer) | A Claude skill for optimizing CVs for applicant tracking systems. |
+## What I work on
+
+- **Laravel applications** — MVC architecture, reusable modules and Blade components.
+- **APIs and backend systems** — RESTful API design, versioning, authentication and role-based access control.
+- **Performance** — MySQL indexing, N+1 query resolution, caching and efficient data fetching.
+- **Product workflows** — subscription and renewal logic, CRM, accounting and operations tools.
+- **Engineering practice** — Agile/Scrum delivery, code review and design patterns including Singleton, Factory and Adapter.
+- **AI-assisted development** — using Claude, Gemini, GitHub Copilot and ChatGPT for debugging, review and system design.
+- **Currently learning** — building with NestJS, React, Swagger, Prisma and PostgreSQL to expand my full-stack and backend skills.
+
+## Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20Basic-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-5A45FF?style=flat-square)
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=avilashsaha035&hide_border=true&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" height="180">
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/avilashsaha035">LeetCode</a> ·
+  <a href="https://codeforces.com/profile/avilash_saha_akash35">Codeforces</a> ·
+  <a href="https://www.codechef.com/users/avilash_saha35">CodeChef</a> ·
+  <a href="https://atcoder.jp/users/Avilash_Saha35">AtCoder</a>
+</p>
+
+<p align="center"><sub>
+B.Sc. in Computer Science and Engineering, Gopalganj Science and Technology University.<br>
+I have also completed an academic thesis and three applied machine learning projects.
+</sub></p>
+
+
+
+
+
